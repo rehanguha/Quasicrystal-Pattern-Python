@@ -1,9 +1,14 @@
-# Quasicrystal-Pattern-Python
+# Quasicrystal Pattern using Python
 
 A quasiperiodic crystal, or quasicrystal, is a structure that is ordered but not periodic. A quasicrystalline pattern can continuously fill all available space, but it lacks translational symmetry. While crystals, according to the classical crystallographic restriction theorem, can possess only two, three, four, and six-fold rotational symmetries, the Bragg diffraction pattern of quasicrystals shows sharp peaks with other symmetry orders, for instance five-fold.
 
 https://en.wikipedia.org/wiki/Quasicrystal
 
+
+Output:
+
+![](https://github.com/rehanguha/Quasicrystal-Pattern-Python/blob/master/quasicrystal(1).png)
+![](https://github.com/rehanguha/Quasicrystal-Pattern-Python/blob/master/quasicrystal.png)
 
 
 I have just created a basic Quasicrystal Pattern Generation using Python.
